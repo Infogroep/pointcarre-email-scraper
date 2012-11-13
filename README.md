@@ -13,8 +13,10 @@ ruby gems:
 
 Usage
 -----
-run: ruby pointcarre_scraper.rb
-It will ask for your credentials (login and password)
+run: 
+> ruby pointcarre_scraper.rb
+
+It will ask for your credentials (login and password) <br />
 Next it will ask to give the number of the faculty you want to scrape
 and optionnally the name of the section as can be found on pointcarre
 
