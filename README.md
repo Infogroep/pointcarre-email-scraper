@@ -7,9 +7,9 @@ Requirements
 ------------
 It is tested with ruby 1.9.2 and 1.9.3
 ruby gems:
-	-mechanize
-	-highline
-	-ruby-progressbar
+-	mechanize
+-	highline
+-	ruby-progressbar
 
 Usage
 -----
